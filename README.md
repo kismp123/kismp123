@@ -49,6 +49,7 @@ Research outcome:
 
 - Helped uncover a reentrancy issue in Vest Exchange
 - Helped uncover a drain vulnerability in Inverse Finance
+- Helped uncover many additional vulnerabilities, with some unable to be responsibly disclosed because the contract owners could not be identified
 - Other researchers have also used the tool to discover critical vulnerabilities
 - Open-sourced for broader use in vulnerability discovery workflows
 
