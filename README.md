@@ -1,6 +1,6 @@
 # Soon Chan Hwang
 
-Web3 security researcher specializing in smart contract auditing, vulnerability research, and exploit development.
+Web3 security researcher specializing in smart contract auditing, vulnerability research, and offensive tooling.
 
 Ranked among the all-time top 10 whitehats on Immunefi, with critical findings across major protocols including Wormhole, Olympus, Tokemak, Inverse Finance, and Vest Exchange.
 
