@@ -20,7 +20,7 @@ I focus on finding practical vulnerabilities in smart contracts and turning secu
 | Role | Organization | Period | Focus |
 | --- | --- | --- | --- |
 | Lead Security Researcher | Hexens | 2025.03 - 2026.04 | Smart contract audits and vulnerability analysis |
-| Chrome Exploit Development | STEALIEN | 2024.02 - 2025.02 | Research tooling for Chrome sandbox escape 1-day analysis |
+| Chrome Exploit Development | Stealien | 2024.02 - 2025.02 | Research tooling for Chrome sandbox escape 1-day analysis |
 | Devirtualization Research | Raon Whitehat | 2021.04 - 2023.02 | Themida v2/v3 devirtualization and original logic recovery |
 | Security Researcher | Orange Security | 2020.05 - 2020.09 | Web and Android vulnerability assessments |
 | Security Operations | Igloo Security Inc | 2019.09 - 2020.04 | Security event triage and incident analysis |
