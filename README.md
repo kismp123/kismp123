@@ -51,7 +51,7 @@ Research outcome:
 - Helped uncover a drain vulnerability in Inverse Finance
 - Open-sourced for broader use in vulnerability discovery workflows
 
-### ACS (ASEAN Cyber Shield) CTF
+### ACS (ASEAN Cyber Shield) CTF (2024)
 
 Created blockchain challenges with attack-and-defense rules and operated the blockchain environment using Ganache.
 
