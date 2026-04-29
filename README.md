@@ -29,6 +29,7 @@ I focus on finding practical vulnerabilities in smart contracts and turning secu
 ## Selected Security Impact
 
 - Inverse Finance: critical vulnerability reported directly in 2025.07
+- Monolith: critical logic bug reported directly in 2025.07
 - Vest Exchange: critical vulnerability reported directly in 2025.07, with potential drain impact of approximately $1.2M
 - Wormhole: critical vulnerability reported via Immunefi in 2022, with potential impact estimated at nearly $1M
 - Olympus: critical finding via Immunefi in 2022
@@ -49,6 +50,7 @@ Research outcome:
 
 - Helped uncover a reentrancy issue in Vest Exchange
 - Helped uncover a drain vulnerability in Inverse Finance
+- Helped uncover a critical logic bug in Monolith
 - Helped uncover many additional vulnerabilities, with some unable to be responsibly disclosed because the contract owners could not be identified
 - Other researchers have also used the tool to discover critical vulnerabilities
 - Open-sourced for broader use in vulnerability discovery workflows
