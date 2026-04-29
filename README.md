@@ -35,7 +35,7 @@ I focus on finding practical vulnerabilities in smart contracts and turning secu
 - Tokemak: critical finding via Immunefi in 2022
 - Optimism: medium severity finding via Immunefi in 2022
 - Erigon: high severity report to the Ethereum Foundation in 2023
-- BIFROST: critical finding through Patchday in 2023
+- BIFROST: critical vulnerability reported via Patchday in 2023
 
 ## Projects
 
