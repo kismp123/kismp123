@@ -47,7 +47,6 @@ A lightweight indexing tool built to track `Transfer` events and isolate contrac
 
 Research outcome:
 
-- Continued to use the tool in live bug hunting after launch
 - Helped uncover a reentrancy issue in Vest Exchange
 - Helped uncover a drain vulnerability in Inverse Finance
 - Other researchers have also used the tool to discover critical vulnerabilities
