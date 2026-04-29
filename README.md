@@ -6,7 +6,7 @@ Ranked among the all-time top 10 whitehats on Immunefi, with critical findings a
 
 ## About
 
-I focus on finding practical vulnerabilities in smart contracts and turning security research into measurable impact. My work spans direct bug bounty reports, audit-driven vulnerability analysis, and offensive tooling for blockchain ecosystems.
+I focus on finding practical vulnerabilities in smart contracts and turning security research into measurable impact. My work spans direct bug bounty reports, smart contract security reviews, and offensive tooling for blockchain ecosystems.
 
 ## Highlights
 
