@@ -35,7 +35,7 @@ I focus on finding practical vulnerabilities in smart contracts and turning secu
 - Olympus: critical finding via Immunefi in 2022
 - Tokemak: critical finding via Immunefi in 2022
 - Optimism: medium severity finding via Immunefi in 2022
-- Delta Protocol: critical vulnerability reported in 2023
+- Delta Protocol: critical vulnerability reported via Immunefi in 2023
 - Erigon: high severity report to the Ethereum Foundation in 2023
 - BIFROST: critical vulnerability reported via Patchday in 2023
 
