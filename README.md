@@ -31,9 +31,9 @@ I focus on finding practical vulnerabilities in smart contracts and turning secu
 - Inverse Finance: critical vulnerability reported directly in 2025.07
 - Monolith: critical logic bug reported directly in 2025.07
 - Vest Exchange: critical vulnerability reported directly in 2025.07, with potential drain impact of approximately $1.2M
-- Wormhole: critical vulnerability reported via Immunefi in 2022, with potential impact estimated at nearly $1M
+- Wormhole: critical vulnerability reported via Immunefi in 2022, with potential drain impact of approximately $1M
 - Olympus: critical finding via Immunefi in 2022
-- Tokemak: critical finding via Immunefi in 2022
+- Tokemak: critical finding via Immunefi in 2022, with potential drain impact of approximately $51M
 - Optimism: medium severity finding via Immunefi in 2022
 - Delta Protocol: critical vulnerability reported via Immunefi in 2023
 - Erigon: high severity report to the Ethereum Foundation in 2023
